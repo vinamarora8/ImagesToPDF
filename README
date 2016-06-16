@@ -1,0 +1,8 @@
+Instructions:
+	1. Copy the .py file to the concerned directory
+	2. Run the program and follow the instructions
+	3. The final file name would be the same as the name of current working directory
+
+Dependencies:
+	1. PIL (or Pillow)
+	2. pyPdf
